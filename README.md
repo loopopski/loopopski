@@ -1,4 +1,17 @@
-### Hi there 👋, I'm Ibukun Obideyi... Welcome to my space 🌌
+### Hi there 👋, I'm Ibukun Obideyi
+
+
+### Welcome to my github space 🌌
+![Welcome to my github page ](images/github%20profile.gif)
+
+
+<!--
+### Musical vibes
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jnmtkgm9g3byjiiftxmv9hfe6&unique={true|1|on|yes})
+-->
+
+### Streak
 
 <!--
 **loopopski/loopopski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
