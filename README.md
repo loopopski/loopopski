@@ -13,6 +13,9 @@
 -->
 
 ### Streak
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loopopski&show_icons=true&locale=en&layout=compact&theme=dark" alt="loopopski" /></p>
+
+<br/>
 
 <!--
 **loopopski/loopopski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
