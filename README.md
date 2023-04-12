@@ -14,6 +14,7 @@ I am a Software Developer... <img src="https://media.giphy.com/media/WUlplcMpOCE
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
 </div>
+
 ---
 
 <h3 align="left">Languages and Tools: :hammer_and_wrench:</h3>
