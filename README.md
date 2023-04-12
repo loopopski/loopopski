@@ -1,7 +1,7 @@
-### 👋 Hi there,
+# Hello there 👋
 ### I'm Ibukun Obideyi
 I am a Software Developer... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working as a Software Developer and contributing to frontend as well as backend development for building applications.
+- :telescope: I’m working as a Software Developer... contributing to frontend and backend development projects for building applications.
 - :mailbox:To reach me: [![Linkedin Badge](https://img.shields.io/badge/-loopopski-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibukun-obideyi-b06044135/)
 ---
 
