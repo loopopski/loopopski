@@ -1,7 +1,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=loopopski.loopopski) [![Github](https://img.shields.io/github/followers/loopopski?label=Follow&style=social)](https://github.com/loopopski)
 # :man_technologist: Hello there 👋
 ### I'm Ibukun Obideyi
-
+[<img src="./Intro.gif" alt="My Intro" title="👋 Hi there! I'm Ibukun Obideyi"/>](https://loopopski.github.io/)
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250px" height="250px"/>
 </div>
