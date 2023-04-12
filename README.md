@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250px" height="250px"/>
 </div>
+
 ### I'm Ibukun Obideyi
 I am a Software Developer... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Developer... contributing to frontend and backend development projects for building applications.
