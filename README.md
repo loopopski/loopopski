@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ibukun Obideyi
+### 👋 Hi there, I'm Ibukun Obideyi
 I am a Software Developer... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <div id="header" align="center">
