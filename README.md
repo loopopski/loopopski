@@ -1,6 +1,9 @@
 ### Hi there 👋, I'm Ibukun Obideyi
 I am a Software Developer... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
+</div>
 
 ### Welcome to my space 🌌
 <div align="center">
