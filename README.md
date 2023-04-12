@@ -1,7 +1,10 @@
 ### 👋 Hi there,
 ### I'm Ibukun Obideyi
 I am a Software Developer... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-https://www.linkedin.com/in/ibukun-obideyi-b06044135/
+- :telescope: I’m working as a Software Developer and contributing to frontend as well as backend development for building applications.
+- :mailbox:To reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibukun-obideyi-b06044135/)
+---
+
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
 </div>
