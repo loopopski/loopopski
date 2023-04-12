@@ -1,4 +1,4 @@
-# Hello there 👋
+# :man_technologist: Hello there 👋
 ### I'm Ibukun Obideyi
 I am a Software Developer... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Developer... contributing to frontend and backend development projects for building applications.
