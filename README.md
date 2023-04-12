@@ -2,6 +2,7 @@
 # :man_technologist: Hello there 👋
 ### I'm Ibukun Obideyi
 
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250px" height="250px"/>
 </div>
 
